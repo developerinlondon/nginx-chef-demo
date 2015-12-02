@@ -1,0 +1,10 @@
+---
+lb:
+  :ip: '10.16.32.11'
+  :role: 'loadbalancer'
+app1:
+  :ip: '10.16.32.21'
+  :role: 'application'
+app2:
+  :ip: '10.16.32.31'
+  :role: 'application'
